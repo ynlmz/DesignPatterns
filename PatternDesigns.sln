@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{4419B447-7154-4B34-AD04-7D3EC6F760AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{F6710D02-F0C3-4D29-A312-F212404562BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4419B447-7154-4B34-AD04-7D3EC6F760AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4419B447-7154-4B34-AD04-7D3EC6F760AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4419B447-7154-4B34-AD04-7D3EC6F760AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4419B447-7154-4B34-AD04-7D3EC6F760AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6710D02-F0C3-4D29-A312-F212404562BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6710D02-F0C3-4D29-A312-F212404562BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6710D02-F0C3-4D29-A312-F212404562BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6710D02-F0C3-4D29-A312-F212404562BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D17AFD12-4F2F-4563-810D-3FDA5D636D00}
+	EndGlobalSection
+EndGlobal

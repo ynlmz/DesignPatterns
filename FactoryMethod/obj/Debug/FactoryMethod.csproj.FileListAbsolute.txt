@@ -1,0 +1,13 @@
+C:\Users\VAIO\source\repos\YazılımMimariHazırlık\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\source\repos\YazılımMimariHazırlık\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\VAIO\source\repos\YazılımMimariHazırlık\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\VAIO\source\repos\YazılımMimariHazırlık\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\VAIO\source\repos\YazılımMimariHazırlık\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\VAIO\source\repos\YazılımMimariHazırlık\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\VAIO\source\repos\PatternDesigns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\VAIO\source\repos\PatternDesigns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\VAIO\source\repos\PatternDesigns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\VAIO\source\repos\PatternDesigns\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\VAIO\source\repos\PatternDesigns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\source\repos\PatternDesigns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\VAIO\source\repos\PatternDesigns\FactoryMethod\obj\Debug\FactoryMethod.pdb
